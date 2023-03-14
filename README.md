@@ -28,9 +28,16 @@ You can inspect the entity relationship diagram and example data below.
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 # Tables
+
 ![sales_table](https://user-images.githubusercontent.com/115405508/225029159-480a8761-36ec-40aa-a98c-4f11d46029f5.png)
-![menu_table](https://user-images.githubusercontent.com/115405508/225029364-8b262014-8163-4fc2-85e0-c693a28c6bf5.png)
-![members_table](https://user-images.githubusercontent.com/115405508/225029404-fe3c2d1e-4b8a-4eb0-873d-ea15a40e8d7e.png)
+
+![menu_and_member_table](https://user-images.githubusercontent.com/115405508/225030155-cdb6da8b-a88c-45a7-835f-f8b8b8c8a77a.png)
+
+
+
+
+
+
 
 
 
