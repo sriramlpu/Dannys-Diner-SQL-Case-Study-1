@@ -1,5 +1,8 @@
 # Dannys-Diner-SQL-Case-Study-1
 
+![dannys_diner](https://user-images.githubusercontent.com/115405508/225049734-2ff4b380-45e3-4fb1-9810-34ce4a15c1a6.png)
+
+
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
@@ -21,7 +24,8 @@ Danny has shared with you 3 key datasets for this case study:
 You can inspect the entity relationship diagram and example data below.
 
 # Entity Relationship Diagram
-![dannys_danny_ERD](https://user-images.githubusercontent.com/115405508/225027639-80122717-1e50-41da-8e4b-128ff41fe36e.png)
+![dannys_diner_ERD](https://user-images.githubusercontent.com/115405508/225049810-759b77b7-34da-4509-9555-fdb61e873fd2.png)
+
 
 # Example Datasets
 
